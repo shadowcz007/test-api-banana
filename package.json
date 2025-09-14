@@ -1,0 +1,25 @@
+{
+    "name": "test-api-banana",
+    "version": "1.0.0",
+    "description": "胜算云图片生成和编辑工具",
+    "main": "test-banana.js",
+    "type": "module",
+    "scripts": {
+        "start": "node test-banana.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "image-generation",
+        "image-editing",
+        "ai",
+        "shengsuanyun"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "node-fetch": "^3.3.2"
+    },
+    "engines": {
+        "node": ">=18.0.0"
+    }
+}
